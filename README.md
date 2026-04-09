@@ -27,3 +27,7 @@ Dont forget the 8096 at the end, it's important.
 3. It will then ask you to sign in. Hit "Use Quick Connect". Then text me the code. 
 
 Once I enter the code on my end, you should be all set to start watching shows. If you want to request a show or movie just text me. It takes a bit to download depending on how long the show is so let me know in advance. Also, I have no idea how the connection will be. It could vary depending on if there are other people watching, or if a download is happening. If you have any questions or run into any issues, just ask me and I'll see if I can sort it out
+
+### Tips
+- Bookmark the server site so you dont have to type in the IP every time
+- You can do this on your phone as well, haven't tested it fully though
